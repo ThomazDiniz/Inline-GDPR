@@ -1,0 +1,1 @@
+Este projeto é apenas um HTML com código inline de compliance com GDPR útil para sites que queiram fazer o questionamento. É só colar no seu site e com pouco ajuste de fonte e cores é possível utilizá-lo em qualquer site.
